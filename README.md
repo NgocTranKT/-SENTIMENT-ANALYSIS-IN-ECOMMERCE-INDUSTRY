@@ -1,4 +1,4 @@
-# -SENTIMENT-ANALYSIS-IN-ECOMMERCE-INDUSTRY
+# SENTIMENT-ANALYSIS-IN-ECOMMERCE-INDUSTRY
 1. Objects
 
 The object of the study is a large number of user reviews for the e-commerce company Amazon. Includes star reviews, comments, photos, videos... about Amazon from users all over the world. This data is searched and scraped on many different websites.
@@ -9,7 +9,7 @@ Python 3 as programming language: Jupyter notebook
 NLP (Natural Language Processing) Techniques
 Matplotlib as plotter
 
-3. Method
+2. Method
 
 Step 1: Collecting data
 
