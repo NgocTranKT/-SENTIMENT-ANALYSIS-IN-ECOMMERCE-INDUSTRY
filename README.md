@@ -11,7 +11,7 @@ Python 3 as programming language: Jupyter notebook
 
 NLP (Natural Language Processing) Techniques
 
-Matplotlib as plotter
+Machine Learning
 
 
 2. Method
