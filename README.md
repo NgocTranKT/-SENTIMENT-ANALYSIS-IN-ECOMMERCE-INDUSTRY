@@ -4,10 +4,15 @@
 The object of the study is a large number of user reviews for the e-commerce company Amazon. Includes star reviews, comments, photos, videos... about Amazon from users all over the world. This data is searched and scraped on many different websites.
 
 2.Used Modules
+ 
 Selenium as crawler
+
 Python 3 as programming language: Jupyter notebook
+
 NLP (Natural Language Processing) Techniques
+
 Matplotlib as plotter
+
 
 2. Method
 
